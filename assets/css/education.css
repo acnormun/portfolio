@@ -1,0 +1,21 @@
+.education{
+    display: flex;
+    flex-direction: column;
+}
+
+.education li{
+    list-style: none;
+    padding: 1.5rem;
+}
+
+.education h3::before{
+    display: inline-block;
+    content:'';
+    width: 20px;
+    height: 20px;
+    background-image: url("/assets/img/icons/book.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 1rem;
+}
+

@@ -1,0 +1,19 @@
+.experience{
+    display: flex;
+    flex-direction: column;
+}
+
+.experience li{
+    list-style: none;
+    font-style: italic;
+}
+
+.experience .period::before{
+    content: '';
+    width: 15;
+    height: 15;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 2rem;
+    background-image: url('/assets/img/icons/calendar.svg')
+}

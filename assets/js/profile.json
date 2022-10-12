@@ -1,0 +1,108 @@
+{
+    "name": "Ana Clara Noronha Muniz",
+    "photo": "/assets/img/anaclaranoronha.jpg",
+    "job": "IT Intern - Defensoria Pública de Minas Gerais",
+    "location": "Belo Horizonte - MG",
+    "phone": "(31) 99694-1311",
+    "email": "dev.acnormun@gmail.com",
+    "github": "ACNormun",
+    "education": {
+      "university": [
+        {
+          "name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+          "course": "Bacharelado em Engenharia Mecânica",
+          "period": "2019 - 2024"
+        },
+        {
+          "name": "ESTÁCIO DE SÁ",
+          "course":"Bacharelado em Engenharia de Software",
+          "period": "2022 - 2026"
+        }
+      ],
+
+      "courses": [
+        {
+          "name":"JavaScript Developer",
+          "platform": "Digital Innovation One"
+        },
+        {
+          "name":"Microsoft Power BI para Data Science",
+          "platform": "Data Science Academy"
+        },
+        {
+          "name": "Cibersegurança e LGPD",
+          "platform":"Gama Academy"
+        }
+
+      ]
+    },
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": "/assets/img/icons/javascript.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/assets/img/icons/java.svg"
+        },
+        {
+          "name": "HTML",
+          "logo": "/assets/img/icons/html.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "/assets/img/icons/css.svg"
+        }
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Avançado)",
+      "Libras (iniciante)"
+    ],
+    "portfolio": [
+      {
+        "name": "Star Trek Fan Website",
+        "url": "https://github.com/acnormun/star-trek",
+        "github": true
+      },
+      {
+        "name": "Pokedex - PokéAPI (DIO)",
+        "url": "https://github.com/acnormun/pokedex",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "IT Intern",
+        "local": "Defensoria Pública do Estado de Minas Gerais",
+        "period": "2022 - atual",
+        "description": "Auxilio à área de Desenvolvimento de Sistemas, realizanto testes de qualidade se Software."
+      },
+      {
+        "name": "Purchasing Intern",
+        "local": "CNH Industrial",
+        "period": "2021 - 2022",
+        "description": "Prospecção e acompanhamento de fornecedores dando suporte na atualização de documentos no sistema. Organização de registros e cadastros de fornecedores nacionais e internacionais."
+      },
+      {
+        "name": "Pesquisadora Voluntária",
+        "local": "LABBIO - Laboratório de Bioengenharia UFMG",
+        "period": "2021 - atual",
+        "description": "Desenvolvimento de próteses de baixo custo, promovendo acessibilidade a pessoas com amputações de membros superiores. Elaboração de peças e execução de desenhos utilizando escaneamento e impressão 3D."
+      },
+      {
+        "name": "Diretora de Projetos",
+        "local": "Fênix Estudos Astronáuticos",
+        "period": "2020 - 2021",
+        "description": "Organização de equipe garantindo que as relações interpessoais e interprojetos trabalhem em consonância. Planejamento da execução e acompanhamento do progresso das rotinas, maximizando o desempenho dos integrantes."
+      },
+      {
+        "name": "Projetista",
+        "local": "Fórmula Tesla - UFMG",
+        "period": "2019 - 2020",
+        "description": "Participação na fabricação e validação dos protótipos. Desenvolvimento de projetos de eficiência energética para veículos elétricos"
+      }
+    ]
+  }
