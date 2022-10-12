@@ -57,27 +57,27 @@
 }
 
 .info .github::before {
-    background-image: url('assets/img/icons/github-white.svg');
+    background-image: url('../img/icons/github-white.svg');
 }
 
 .info .linkedin::before {
-    background-image: url('assets/img/icons/linkedin.svg');
+    background-image: url('../img/icons/linkedin.svg');
 }
 
 .info .phone::before {
-    background-image: url('assets/img/icons/phone.svg');
+    background-image: url('../img/icons/phone.svg');
 }
 
 .info .email::before {
-    background-image: url('assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 .info .job::before {
-    background-image: url('assets/img/icons/pessoinha.svg');
+    background-image: url('../img/icons/pessoinha.svg');
 }
 
 .info .local::before {
-    background-image: url('assets/img/icons/local.svg');
+    background-image: url('../img/icons/local.svg');
 }
 
 @media only screen and (min-width:768px) {

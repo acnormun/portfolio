@@ -1,6 +1,6 @@
 {
     "name": "Ana Clara Noronha Muniz",
-    "photo": "assets/img/anaclaranoronha.jpg",
+    "photo": "../img/anaclaranoronha.jpg",
     "job": "IT Intern - Defensoria Pública de Minas Gerais",
     "location": "Belo Horizonte - MG",
     "phone": "(31) 99694-1311",
@@ -40,19 +40,19 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "assets/img/icons/javascript.svg"
+          "logo": "../img/icons/javascript.svg"
         },
         {
           "name": "Java",
-          "logo": "assets/img/icons/java.svg"
+          "logo": "../img/icons/java.svg"
         },
         {
           "name": "HTML",
-          "logo": "assets/img/icons/html.svg"
+          "logo": "../img/icons/html.svg"
         },
         {
           "name": "CSS",
-          "logo": "assets/img/icons/css.svg"
+          "logo": "../img/icons/css.svg"
         }
       ]
     },
