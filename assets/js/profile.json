@@ -40,7 +40,7 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "../img/icons/javascript.svg"
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/javascript.svg"
         },
         {
           "name": "Java",
