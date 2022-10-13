@@ -44,15 +44,15 @@
         },
         {
           "name": "Java",
-          "logo": "../img/icons/java.svg"
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/java.svg"
         },
         {
           "name": "HTML",
-          "logo": "../img/icons/html.svg"
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/html.svg"
         },
         {
           "name": "CSS",
-          "logo": "../img/icons/css.svg"
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/css.svg"
         }
       ]
     },
