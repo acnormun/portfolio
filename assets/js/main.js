@@ -74,7 +74,7 @@ function updateEducation(profileData) {
         `
     }).join('')
 }
-(async () => {
+(async() => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateHardSkills(profileData)
