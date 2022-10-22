@@ -2,10 +2,12 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
 }
 .skills li{
     list-style: none;
+    padding: 10px 30px 30px 0px;
 }
 
 
