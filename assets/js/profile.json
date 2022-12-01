@@ -61,6 +61,14 @@
         {
           "name": "Python",
           "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/python.svg"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/c%2B%2B.svg"
+        },
+        {
+          "name": "Flutter",
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/python.svg"
         }
       ]
     },
@@ -78,6 +86,11 @@
       {
         "name": "Pokedex - PokéAPI (DIO)",
         "url": "https://github.com/acnormun/pokedex",
+        "github": true
+      },
+      {
+        "name": "ProwayComputers (Proway)",
+        "url": "https://github.com/acnormun/proway-computers",
         "github": true
       }
     ],
