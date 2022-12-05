@@ -65,6 +65,10 @@
         {
           "name": "Angular",
           "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/logo-angular-svgrepo-com.svg"
+        },
+        {
+          "name": "Flutter",
+          "logo": "https://raw.githubusercontent.com/acnormun/portfolio/main/assets/img/icons/logo-angular-svgrepo-com.svg"
         }
       ]
     },
