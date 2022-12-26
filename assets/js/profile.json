@@ -80,11 +80,6 @@
     ],
     "portfolio": [
       {
-        "name": "Star Trek Fan Website",
-        "url": "https://github.com/acnormun/star-trek",
-        "github": true
-      },
-      {
         "name": "Pokedex - PokéAPI (DIO)",
         "url": "https://acnormun.github.io/pokedex/",
         "github": true
