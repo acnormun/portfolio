@@ -80,12 +80,17 @@
     ],
     "portfolio": [
       {
-        "name": "Pokedex - PokéAPI (DIO)",
+        "name": "Star-Trek fan website",
+        "url": "https://star-trek-acnormun.vercel.app",
+        "github": true
+      },
+      {
+        "name": "Pokedex - PokéAPI",
         "url": "https://acnormun.github.io/pokedex/",
         "github": true
       },
       {
-        "name": "ProwayComputers (Proway)",
+        "name": "ProwayComputers",
         "url": "https://acnormun.github.io/proway-computers/",
         "github": true
       }
