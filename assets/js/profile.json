@@ -85,6 +85,11 @@
         "github": true
       },
       {
+        "name": "Alura-Tracker",
+        "url": "https://alura-tracker-git-main-acnormun.vercel.app/#/",
+        "github": true
+      },
+      {
         "name": "Pokedex - PokéAPI",
         "url": "https://acnormun.github.io/pokedex/",
         "github": true
@@ -113,18 +118,6 @@
         "local": "LABBIO - Laboratório de Bioengenharia UFMG",
         "period": "2021 - atual",
         "description": "Desenvolvimento de próteses de baixo custo, promovendo acessibilidade a pessoas com amputações de membros superiores. Elaboração de peças e execução de desenhos utilizando escaneamento e impressão 3D."
-      },
-      {
-        "name": "Diretora de Projetos",
-        "local": "Fênix Estudos Astronáuticos",
-        "period": "2020 - 2021",
-        "description": "Organização de equipe garantindo que as relações interpessoais e interprojetos trabalhem em consonância. Planejamento da execução e acompanhamento do progresso das rotinas, maximizando o desempenho dos integrantes."
-      },
-      {
-        "name": "Projetista",
-        "local": "Fórmula Tesla - UFMG",
-        "period": "2019 - 2020",
-        "description": "Participação na fabricação e validação dos protótipos. Desenvolvimento de projetos de eficiência energética para veículos elétricos"
       }
     ]
   }
