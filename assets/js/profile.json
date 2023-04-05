@@ -102,10 +102,10 @@
     ],
     "professionalExperience": [
       {
-        "name": "IT Intern",
+        "name": "Frontend Developer Intern",
         "local": "Defensoria Pública do Estado de Minas Gerais",
         "period": "2022 - atual",
-        "description": "Auxilio à área de Desenvolvimento de Sistemas, realizanto testes de qualidade se Software."
+        "description": "Desenvolvimento Frontend de Sistemas (Vue.js 3) e testes de qualidade se Software."
       },
       {
         "name": "Purchasing Intern",
